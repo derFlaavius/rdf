@@ -1,0 +1,9 @@
+1. Repository erstellen
+
+2. venv Umgebung erstellen: (python -m venv .venv)
+
+3. Git soll venv ignorieren: (".gitignore" außerhalb von venv erstellen und ".venv" reinschreiben. Danach ist venv ausgegraut)
+
+4. venv aktivieren: ".venv\Scripts\activate" in die CMD des Projektordners eingeben und ausführen, dann
+MariaDB in die virtuelle Umgebung installieren! "python -m pip install mariadb"
+

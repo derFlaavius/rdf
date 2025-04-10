@@ -1,0 +1,3 @@
+# Schlumpfhausen GUI
+
+## Setup
